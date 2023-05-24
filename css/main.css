@@ -742,6 +742,12 @@ label.error {
   z-index: 9;
 }
 
+.flexbox-center {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
 /* News Api */
 .hidden {
   display: none;
