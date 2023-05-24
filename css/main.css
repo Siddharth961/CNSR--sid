@@ -9,6 +9,11 @@ body {
   font-size: 13px;
   color: #6a737b;
 }
+body::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
 
 ol,
 ul {
