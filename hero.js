@@ -1,7 +1,7 @@
 const wordel = document.querySelector(".changing_word")
 wordel.textContent = " ";
 
-const words = ["Security", "Protection"]
+const words = ["Research", "Protection"]
 
 for(let i=0; i<1; i++){
     for(let j=0; j<words[i].length; j++){

@@ -15,6 +15,11 @@ body::-webkit-scrollbar {
   scrollbar-width: none;
 }
 
+.extra-height{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 ol,
 ul {
   margin: 0;
@@ -957,6 +962,20 @@ figure.snip1208.hover button {
   display: flex;
   justify-content: space-around;
 } */
+
+/* Pdf button */
+
+.pdf-button{
+  width: 100%;
+  border: medium none;
+  padding: 10px 20px;
+  background-color: #1abc9c;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
 
 /* Next and previous button */
 .prev-button {
