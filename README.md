@@ -11,4 +11,3 @@ If your problem or idea has not been addressed yet, feel to [open a new issue](h
 
 If you have questions or need help integrating the product please [contact us](mailto:mail@farazkhan.co) instead of opening an issue.
 
-Example change
