@@ -10,7 +10,7 @@ for(let i=0; i<1; i++){
         span.className = "hero_letter"
         span.innerText = words[i].charAt(j)
         wordel.appendChild(span)
-        },j*200)
+        },j*250)
         
     }
     console.log(wordel.firstElementChild)
